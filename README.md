@@ -4,6 +4,6 @@ Web Phishing Detection
 Project Contributors:
 1. Krishi Divya Dharshini V
 2. Aadhish S
-3. Dhinesh Kumar
+3. Dinesh Kumar
 4. Manjunathan R
 
