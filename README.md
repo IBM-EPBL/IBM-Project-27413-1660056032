@@ -6,4 +6,3 @@ Project Contributors:
 2. Aadhish S
 3. Dinesh Kumar
 4. Manjunathan R
-
