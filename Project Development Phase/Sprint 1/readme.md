@@ -12,3 +12,8 @@ Key Takeaways:
 Functional Requirements satisfied: 
    1. User Input 
    2. Website Comparison 
+   
+Folder Contents: 
+   1. Python Notebook 
+   2. Phishing Dataset in .csv format
+
