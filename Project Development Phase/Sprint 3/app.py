@@ -7,7 +7,7 @@ from sklearn import metrics
 import warnings
 import pickle
 warnings.filterwarnings('ignore')
-from feature import FeatureExtraction
+from feature_extraction import FeatureExtraction
 
 file = open("Phishing_website.pkl", "rb")
 gbc = pickle.load(file)
