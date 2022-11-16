@@ -1,7 +1,5 @@
 SPRINT 3:
 
-In this sprint, the 
-
 Key Takeaways: 
      
      1. Built a Flask app
