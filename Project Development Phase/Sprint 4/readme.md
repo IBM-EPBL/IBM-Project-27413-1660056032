@@ -16,4 +16,4 @@ Folder Contents:
 
 Testing out our model from developed UI:
 
-![image](https://user-images.githubusercontent.com/64303145/202485490-66b71711-c0f7-4b53-b872-12a3991584b6.png)
+![image](https://user-images.githubusercontent.com/64303145/202485861-849dafe4-ca13-46c8-af61-9c0640da57c5.png)
