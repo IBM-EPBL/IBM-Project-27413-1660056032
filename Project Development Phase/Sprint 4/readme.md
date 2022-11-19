@@ -1,5 +1,7 @@
 Sprint 4: 
 
+The team built the flask app and deployed it on the local server. The cloud deplyement was also done in the final sprint, Relevant documents can be found here. 
+
 Functional Requirements met: 
 
      1. Events - User Interface
